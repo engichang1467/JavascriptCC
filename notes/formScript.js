@@ -1,5 +1,3 @@
-// link: https://www.youtube.com/watch?v=hdI2bqOjy3c
-
 // Form script
 
 const myForm = document.querySelector('#my-form')
